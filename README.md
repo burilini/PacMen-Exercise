@@ -8,9 +8,11 @@ This exercise was a great way to demonstrate animation, movement, the depth and 
 
 WANNA Play?
 
-To execute: press ADD PACMAN - press START GAME ; You can add as many of the PacMen as you like by pressing the ADD PACMAN button. You can add before and after starting the game.
+HOW TO RUN: press ADD PACMAN - press START GAME ; You can add as many of the PacMen as you like by pressing the ADD PACMAN button. You can add before and after starting the game.
 
-In the future, I am going to add more images of pacmen in different colors and/or styles. I would also like to regulate different speeds for them. I have a grandson that loves this!
+ROADMAP FOR FUTURE INPROVEMENTS: In the future, I am going to add more images of pacmen in different colors and/or styles. I would also like to regulate different speeds for them. I have a grandson that loves this!
+
+LICENSE INFORMATION:
 
 MIT License
 
